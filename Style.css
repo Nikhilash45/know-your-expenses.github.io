@@ -1,0 +1,58 @@
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   max-width: 200px ;
+    padding-top: 1rem;
+
+}
+    
+
+.navbar{
+    background-color:rgb(127, 155, 255);
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    background-image: linear-gradient( 68.2deg,  rgba(7,3,98,1) -0.1%, rgba(179,26,132,1) 47.7%, rgba(239,186,83,1) 100.2% );}
+.input-group-text {
+    /* background-color:rgb(127, 155, 255); */
+    border-color: black;
+    /* background-image: linear-gradient( 68.2deg,  rgba(7,3,98,1) -0.1%, rgba(179,26,132,1) 47.7%, rgba(239,186,83,1) 100.2% );} */
+    background-color: linear-gradient( 68.2deg,  rgba(7,3,98,1) -0.1%, rgba(179,26,132,1) 47.7%, rgba(239,186,83,1) 100.2% );}
+.form-control{
+    border-color: black;
+}
+
+.btn {
+    /* background-color:rgb(127, 155, 255); */
+    border-color:black;
+    display: block;
+    /* background-image: linear-gradient( 68.2deg,  rgba(7,3,98,1) -0.1%, rgba(179,26,132,1) 47.7%, rgba(239,186,83,1) 100.2% ); */
+}
+
+.container {
+    padding-top: 2.5rem;
+    background-color: rgb(127, 155, 255);
+    background-image: linear-gradient( 68.2deg,  rgba(7,3,98,1) -0.1%, rgba(179,26,132,1) 47.7%, rgba(239,186,83,1) 100.2% );
+    padding-bottom: 2.5rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin-top: 2rem;
+    
+}
+
+.list-group-item {
+    background-color: #b7dbf8;
+   margin-right: 4rem;
+   margin-left: 4rem;
+   border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.list-group{
+    margin-top: 2rem;
+}
+
+button.btn.btn-outline-danger.btn-sm {
+    float: right;
+    }
