@@ -1,2 +1,2 @@
 # know-your-expenses
-Know Your Daily Expenses
+This App Is for Knowing Your Daily Expenses
